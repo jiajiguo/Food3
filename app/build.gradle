@@ -1,0 +1,46 @@
+apply plugin: 'com.android.application'
+
+android {
+
+    signingConfigs {
+        release {
+            keyAlias '华晔软件工作室'
+            keyPassword 'samuel'
+            storeFile file('/keystore/huaye.jks')
+            storePassword 'samuel'
+        }
+    }
+
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        applicationId "com.huaye.food"
+        minSdkVersion 19
+        targetSdkVersion 23
+    }
+
+    buildTypes {
+        debug {
+            signingConfig signingConfigs.release
+        }
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:25.3.1'
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    //    compile files('libs/Bmob_Push_V0.6beta_20150408.jar')
+    //    compile files('libs/BmobSDK_V3.4.3_0828.jar')
+    compile files('libs/filechoose.jar')
+    //    compile files('libs/okhttp-2.4.0.jar')
+    //    compile files('libs/okio-1.4.0.jar')
+    compile files('libs/universal-image-loader-1.9.4.jar')
+    compile 'cn.bmob.android:bmob-sdk:3.5.0'
+    compile files('libs/Amap_2DMap_V4.2.0_20170120.jar')
+    compile 'com.google.android.gms:play-services-maps:10.2.1'
+}

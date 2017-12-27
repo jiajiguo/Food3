@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Jiaji Guo\\AndroidStudioProjects\\Food3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Jiaji Guo\\.android\\build-cache\\7925dbf195437effb0729456afdf967ded6c4b8c\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jiaji Guo\\AndroidStudioProjects\\Food3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Jiaji Guo\\.android\\build-cache\\7925dbf195437effb0729456afdf967ded6c4b8c\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jiaji Guo\\AndroidStudioProjects\\Food3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Jiaji Guo\\.android\\build-cache\\7925dbf195437effb0729456afdf967ded6c4b8c\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jiaji Guo\\AndroidStudioProjects\\Food3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Jiaji Guo\\.android\\build-cache\\7925dbf195437effb0729456afdf967ded6c4b8c\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Jiaji Guo\\AndroidStudioProjects\\Food3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\my.png",
+        "source": "C:\\Users\\Jiaji Guo\\AndroidStudioProjects\\Food3\\app\\src\\main\\res\\drawable-hdpi\\my.png"
+    },
+    {
+        "merged": "C:\\Users\\Jiaji Guo\\AndroidStudioProjects\\Food3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_info_bubble.9.png",
+        "source": "C:\\Users\\Jiaji Guo\\AndroidStudioProjects\\Food3\\app\\src\\main\\res\\drawable-hdpi\\custom_info_bubble.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jiaji Guo\\AndroidStudioProjects\\Food3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Jiaji Guo\\AndroidStudioProjects\\Food3\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Jiaji Guo\\AndroidStudioProjects\\Food3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\comment.png",
+        "source": "C:\\Users\\Jiaji Guo\\AndroidStudioProjects\\Food3\\app\\src\\main\\res\\drawable-hdpi\\comment.png"
+    },
+    {
+        "merged": "C:\\Users\\Jiaji Guo\\AndroidStudioProjects\\Food3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\add_photo.png",
+        "source": "C:\\Users\\Jiaji Guo\\AndroidStudioProjects\\Food3\\app\\src\\main\\res\\drawable-hdpi\\add_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\Jiaji Guo\\AndroidStudioProjects\\Food3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\add.png",
+        "source": "C:\\Users\\Jiaji Guo\\AndroidStudioProjects\\Food3\\app\\src\\main\\res\\drawable-hdpi\\add.png"
+    }
+]

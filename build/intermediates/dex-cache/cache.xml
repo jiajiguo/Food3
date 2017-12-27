@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jiaji Guo\AndroidStudioProjects\Food3\app\libs\filechoose.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30877bca7d1d9f09d7bc8b6ec3e6f5cf0fcf27fb">
+        <dex dex="C:\Users\Jiaji Guo\AndroidStudioProjects\Food3\app\build\intermediates\transforms\dex\debug\folders\1000\2\filechoose_458fa15013a1aad1b60cdfe1e31ea3ff4f0a3733\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jiaji Guo\AndroidStudioProjects\Food3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Jiaji Guo\AndroidStudioProjects\Food3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3841bd35eace9dd4c283da3189b81b4da37a2dd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jiaji Guo\.android\build-cache\6f7d447a25ef49808a96054cb202e6518d4b41b7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Jiaji Guo\AndroidStudioProjects\Food3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_27f0cd41825fc9b9dbb46d3aff3cfff1082f3eb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jiaji Guo\.android\build-cache\e2a217bfcf54896bad705438777ab9927b1ac95e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\Jiaji Guo\AndroidStudioProjects\Food3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed3bb837ba43fb7a6a43b8da386c6d9134adc11b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jiaji Guo\.android\build-cache\e6cafa75ccab089059a3758496bd624ad1cbc529\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Jiaji Guo\AndroidStudioProjects\Food3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dece55c3158819e168a216c1f161febe690b9307\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jiaji Guo\.android\build-cache\630534d3d3dfdb152d44f734608970d44457fcc2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Jiaji Guo\AndroidStudioProjects\Food3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2a3f80608476966850bebc0f21e0e375e1baf515\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jiaji Guo\AndroidStudioProjects\Food3\app\libs\universal-image-loader-1.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="C:\Users\Jiaji Guo\AndroidStudioProjects\Food3\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.4_ae6953214e4487ef2d0eaab52028871f7e72ae88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Jiaji Guo\AndroidStudioProjects\Food3\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_762974f087c5d1d7175d593dab4e23d42988de15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jiaji Guo\.android\build-cache\26213a14327527fe943b51351115722c5d0339f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Jiaji Guo\AndroidStudioProjects\Food3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa857f97ae479ab1477247587dfd3c358b0822f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jiaji Guo\.android\build-cache\82d557d3be3bbfa95f24913d24dc1946d8b9e6c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Jiaji Guo\AndroidStudioProjects\Food3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dfbeacc6bb527b39525b053d349952095028c661\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jiaji Guo\.android\build-cache\dafaaccf563ed2a26d450cd247ec194d88fab913\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="C:\Users\Jiaji Guo\AndroidStudioProjects\Food3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_66207a262d68e3b12bec0f3ec468d18a4d745d43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jiaji Guo\.android\build-cache\9a6c20d695165d179cf68086c504a405751a05fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Jiaji Guo\AndroidStudioProjects\Food3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d641a41d191dfd8f5f7d9a1d55f88799e70870d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jiaji Guo\AndroidStudioProjects\Food3\app\libs\Amap_2DMap_V4.2.0_20170120.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="010c4f3be9709a2ed9c3e453cc470c312b753154">
+        <dex dex="C:\Users\Jiaji Guo\AndroidStudioProjects\Food3\app\build\intermediates\transforms\dex\debug\folders\1000\2\Amap_2DMap_V4.2.0_20170120_4350a4d9e69461b4d80dde9e64185b6c538f8224\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jiaji Guo\.android\build-cache\1268a564815f5a146e78d95c21f0ef28a9724f61\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\Jiaji Guo\AndroidStudioProjects\Food3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_36e43ef20b910976cfc7fa5657b6efd52a004b18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jiaji Guo\.android\build-cache\11235990de6aab763e5de5cd6f546f57afc88c81\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\Jiaji Guo\AndroidStudioProjects\Food3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ffd26cb95d676d6cc30a85e78763141e255b00c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jiaji Guo\AndroidStudioProjects\Food3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="657f09a71fed67543b4bc44462ef9edeac3d661c">
+        <dex dex="C:\Users\Jiaji Guo\AndroidStudioProjects\Food3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_495faebd4300b0375cb5f26821cec66751fa59a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jiaji Guo\.android\build-cache\86b87fb12bbb115f6915220a86aaf07acc0579ea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Jiaji Guo\AndroidStudioProjects\Food3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f88586787698a77d781e96664c89b56f3af8fd44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jiaji Guo\.android\build-cache\7925dbf195437effb0729456afdf967ded6c4b8c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Jiaji Guo\AndroidStudioProjects\Food3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bbb6fe3d9bf8749bc226748c57ff10c25deb146c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jiaji Guo\.android\build-cache\572fd62df71e82377797a0b94cce7ff8492c5b25\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Jiaji Guo\AndroidStudioProjects\Food3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_59894f072de07c5102896094fe8a5f7d666e6f71\classes.dex" />
+    </item>
+
+</items>

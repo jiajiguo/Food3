@@ -1,0 +1,7 @@
+#Wed Dec 27 00:04:17 EST 2017
+base.0=C\:\\Users\\Jiaji Guo\\AndroidStudioProjects\\Food3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3841bd35eace9dd4c283da3189b81b4da37a2dd0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Jiaji Guo\\AndroidStudioProjects\\Food3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_495faebd4300b0375cb5f26821cec66751fa59a7\\classes.dex
+base.1=C\:\\Users\\Jiaji Guo\\AndroidStudioProjects\\Food3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_495faebd4300b0375cb5f26821cec66751fa59a7
+file.0=C\:\\Users\\Jiaji Guo\\AndroidStudioProjects\\Food3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3841bd35eace9dd4c283da3189b81b4da37a2dd0\\classes.dex
